@@ -5,3 +5,4 @@ markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
 permalink: /:year/:month/:day/:title/
+future: true
