@@ -1,0 +1,7 @@
+title: greenxlouv
+description: Capstone & dev notes
+theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+permalink: /:year/:month/:day/:title/
